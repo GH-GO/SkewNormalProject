@@ -11,7 +11,7 @@ https://doi.org/10.1016/j.ijforecast.2024.06.009
  
 ## Instructions for reproducibility
 
-In order to reproduce Figure and Tables in the paper please run the Matlab* code as indicated below
+In order to reproduce Figure and Tables in the paper please dopwnload all files and run the Matlab* code as indicated below
 
                      
 ***

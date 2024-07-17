@@ -1,5 +1,5 @@
 # SkewNormalProject
-This project contains code and data related about Skew-Brownian processes.
+This project contains code and data about Skew-Brownian processes.
 
 Here the instructions on how to reproduce the results in the following article:
 

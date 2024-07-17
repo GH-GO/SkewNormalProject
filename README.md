@@ -5,7 +5,7 @@ Here the instructions on how to reproduce the results in the following article:
 
 Manuscript Number: IJF-D-23-00537R2 \
 Title: Skew--Brownian processes for estimating the volatility of crude oil Brent\
-Authors: Bufalo, Michele and Liseo, Brunero and Orlando, Giuseppe \url{https://orcid.org/0000-0003-2630-5403} \
+Authors: Bufalo, Michele and Liseo, Brunero and [Orlando, Giuseppe](https://orcid.org/0000-0003-2630-5403) \
 https://doi.org/10.1016/j.ijforecast.2024.06.009
 
  
